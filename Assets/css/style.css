@@ -27,7 +27,7 @@ body {
 .header div {
     padding-top: 15px;
     margin-right: 20px;
-    float: right;
+    float: inline-end;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
@@ -39,6 +39,7 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    
 }
 
 a {
